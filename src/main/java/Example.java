@@ -1,5 +1,3 @@
-package org.potassco.clingo;
-
 import java.util.Arrays;
 import java.util.List;
 
