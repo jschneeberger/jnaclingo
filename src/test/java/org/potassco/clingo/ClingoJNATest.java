@@ -7,7 +7,7 @@ import org.potassco.jclingo.NativeClingo;
 
 import com.sun.jna.ptr.IntByReference;
 
-public class ClingoTest {
+public class ClingoJNATest {
 
 	@Test
 	public void test() {
